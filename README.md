@@ -5,10 +5,6 @@ slick
 
 _the last carousel you'll ever need_
 
-#### Demo
-
-[http://kenwheeler.github.io/slick](http://kenwheeler.github.io/slick/)
-
 #### CDN
 
 To start working with Slick right away, there's a couple of CDN choices availabile
